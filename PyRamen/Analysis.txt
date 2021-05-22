@@ -1,0 +1,6 @@
+Financial analysis
+--------------------
+Sales count : 74124
+Sales revenue : 24375811.0
+Cost of goods : 11512190
+Sales profit : 12863621.0
